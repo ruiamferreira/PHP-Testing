@@ -1,6 +1,5 @@
 <?php
 
-
 include_once("fonction.php");
 include_once("config.php");
 
